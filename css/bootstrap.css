@@ -5830,6 +5830,7 @@ button.close {
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
   perspective: 1000px;
+  margin-top: 30px;
 }
 
 .carousel-item.active,
